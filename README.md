@@ -8,9 +8,9 @@
 
 ---
 
-🕹️ During my free time, I'm also learning some JavaScript, mainly linked to the [ThreeJS library](https://threejs.org/) which is used to create 3D interactive websites.
+🕹️ During my free time, I'm also learning some JavaScript, mainly linked to the [ThreeJS library](https://threejs.org/) which is used to create 3D interactive websites
 
-🎮 Here's my on-going project : I'm recreating the multiplayer online game [Unrailed!](https://unrailed-game.com/) as a Web App. You can access it on my [website](https://virmoux.fr).
+🎮 Here's my on-going project : I'm recreating the multiplayer online game [Unrailed!](https://unrailed-game.com/) as a Web App. You can access it on my [website](https://virmoux.fr)
 
 ---
 
