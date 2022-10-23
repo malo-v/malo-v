@@ -14,4 +14,4 @@
 
 ---
 
-✉️ You can reach me through my linkedin page : [link](https://www.linkedin.com/in/malo.virmoux)
+✉️ You can reach me through my linkedin page : [link](https://www.linkedin.com/in/malo-virmoux)
